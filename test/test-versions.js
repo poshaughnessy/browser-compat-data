@@ -17,11 +17,13 @@ function testVersions(dataFilename) {
         if (typeof supportData[browser].version_added === "string" &&
             !validBrowserVersions[browser].includes(supportData[browser].version_added)) {
           console.log('\x1b[31m  version_added: "' + supportData[browser].version_added + '" is not a valid version number for ' + browser);
+          console.log('  Valid ' + browser + ' versions are: ' + validBrowserVersions[browser].join(', '));
           hasErrors = true;
         }
         if (typeof supportData[browser].version_removed === "string" &&
             !validBrowserVersions[browser].includes(supportData[browser].version_removed)) {
           console.log('\x1b[31m  version_removed: "' + supportData[browser].version_removed + '" is not a valid version number for ' + browser);
+          console.log('  Valid ' + browser + ' versions are: ' + validBrowserVersions[browser].join(', '));
           hasErrors = true;
         }
       }
