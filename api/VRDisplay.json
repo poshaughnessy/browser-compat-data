@@ -42,6 +42,9 @@
           },
           "edge_mobile": {
             "version_added": null
+          },
+          "samsunginternet_android": {
+            "version_added": "6.0"
           }
         },
         "status": {
@@ -75,7 +78,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -92,6 +95,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -126,7 +132,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -143,6 +149,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -177,7 +186,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -194,6 +203,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -228,7 +240,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -245,6 +257,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -279,7 +294,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -296,6 +311,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -330,7 +348,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -347,6 +365,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -381,7 +402,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -398,6 +419,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -432,7 +456,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -449,6 +473,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -483,7 +510,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -500,6 +527,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -534,7 +564,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -551,6 +581,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -591,6 +624,9 @@
             },
             "edge_mobile": {
               "version_added": false
+            },
+            "samsunginternet_android": {
+              "version_added": false
             }
           },
           "status": {
@@ -625,7 +661,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -642,6 +678,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -674,6 +713,9 @@
               "version_added": false
             },
             "edge_mobile": {
+              "version_added": false
+            },
+            "samsunginternet_android": {
               "version_added": false
             }
           },
@@ -709,7 +751,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -726,6 +768,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -760,7 +805,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -777,6 +822,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -811,7 +859,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -828,6 +876,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -862,7 +913,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -879,6 +930,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -913,7 +967,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -930,6 +984,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -964,7 +1021,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -981,6 +1038,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
@@ -1015,7 +1075,7 @@
               ]
             },
             "edge": {
-              "version_added": true
+              "version_added": "15"
             },
             "firefox": [
               {
@@ -1032,6 +1092,9 @@
             },
             "edge_mobile": {
               "version_added": null
+            },
+            "samsunginternet_android": {
+              "version_added": "6.0"
             }
           },
           "status": {
